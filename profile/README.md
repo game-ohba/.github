@@ -2,7 +2,7 @@
 
 
 TikTokの[オオバ](https://www.tiktok.com/@game.ohba?lang=ja-JP)をフォローして朝7時からのライブ配信を見に来てください。  
-→　　https://www.tiktok.com/@game.ohba?lang=ja-JP
+→　https://www.tiktok.com/@game.ohba?lang=ja-JP
 
 サブスクメンバーになった方は本Organizationのメンバーに加入、ソースをダウンロード・確認することができます。
 
