@@ -1,5 +1,10 @@
-## TikTokライブ配信で開発しているゲームのリポジトリ
+## TikTokライブ配信しているゲームソースを見たい方へ
 
+
+TikTokの[オオバ](https://www.tiktok.com/@game.ohba?lang=ja-JP)をフォローして朝7時からのライブ配信を見に来てください。
+https://www.tiktok.com/@game.ohba?lang=ja-JP
+
+サブスクメンバーになった方には本Organizationのメンバーになれて、ソースをダウンロード・確認することができます。
 
 
 
